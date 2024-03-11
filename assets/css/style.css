@@ -1,0 +1,86 @@
+/* Reset de estilos */
+* {
+margin: 0;
+padding: 0;   
+}
+
+/* Inicio Estilos header */
+.navbar {
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+.navbar__img {
+width: 55px;
+border-radius: 10px;
+}
+
+.navbar__tittle {
+   margin-left: 10px;
+}
+
+/* Fin Estilos header */
+
+/* Inicio estilos Main */
+.main {
+    font-family: "Poppins", sans-serif;
+}
+
+.main__title {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.main__novedades-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.main__novedades-fecha1 {
+    padding: 5px;
+    font-size: 16px;
+    margin: 0;
+}
+
+.main__novedades-texto1 {
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+    padding: auto;
+    margin: 0;
+}
+
+.main_novedades-logo {
+    width: 55px;
+    border-radius: 77px;
+}
+
+.main_novedades-textologo {
+    padding: 5px 0;
+}
+
+.main__novedades-img-noticias {
+    max-width: 100%;
+    height: auto;
+    margin: 5px;
+}
+
+.main__novedades-infonoticias {
+    padding: 0;
+    margin: 0;
+}
+
+.main__novedades-fecha2 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.main__novedades-texto2 {
+    font-weight: bold;
+    margin: 0;
+}
+
+.main__novedades-img3{
+    width: 40px;
+    border-radius: 77px;
+}
