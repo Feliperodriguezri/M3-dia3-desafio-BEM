@@ -46,7 +46,6 @@ border-radius: 10px;
     font-weight: bold;
     padding: 10px;
     font-size: 20px;
-    padding: auto;
     margin: 0;
 }
 
@@ -84,3 +83,13 @@ border-radius: 10px;
     width: 40px;
     border-radius: 77px;
 }
+
+/* Inicio estilos seccion populares */
+
+
+.main_pop-img {
+width: 300px;
+height: 170px;
+margin: 10px;
+}
+
