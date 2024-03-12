@@ -88,8 +88,45 @@ border-radius: 10px;
 
 
 .main_pop-img {
-width: 300px;
+width: 100%;
 height: 170px;
 margin: 10px;
 }
 
+/* Inicio estilos seccion categorias */
+.main__categorias-container {
+    margin: 15px;
+    width: 90%;
+    height: 89px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main__categorias-texto {
+    font-size: 36px;
+    margin-right: 30px;
+    color: #fff;
+    font-weight: bold;
+    align-items: center;
+}
+
+.main__categorias-containerhtml {
+    background-color: #E93E30;
+}
+
+.main__categorias-containerjs {
+    background-color: #F7E018;
+}
+.main__categorias-containercss {
+    background-color: #299ED5;
+}
+.main__categorias-containerreact {
+    background-color: #292C33;
+}
+.main__categorias-containervue {
+    background-color: #67C770;
+}
+.main__categorias-containerboostrap {
+    background-color: #563D7C;
+}
